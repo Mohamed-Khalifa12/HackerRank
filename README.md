@@ -32,6 +32,7 @@ you can find my profile on hackerRanck from [here](https://www.hackerrank.com/pr
 |  2  |        Array Reversal     | C |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Array%20Reversal)|
 |  3  |        Grading Students     | Problem Solving |![#008000](https://placehold.co/10x10/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Grading%20Students)|
 |  4  |        Birthday Cake Candles    | Problem Solving |![#008000](https://placehold.co/10x10/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Birthday%20Cake%20Candles)|
-
+|  5  |        1D Arrays in C    | C |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/1D%20Arrays%20in%20C)|
+|  6  |        Calculate the Nth term    | C |![#008000](https://placehold.co/10x10/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Calculate%20the%20Nth%20term)|
 
 
