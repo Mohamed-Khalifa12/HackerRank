@@ -37,4 +37,6 @@ you can find my profile on hackerRanck from [here](https://www.hackerrank.com/pr
 |  7  |        Apple And Orange    | Problem Solving |![#008000](https://placehold.co/10x10/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Apple%20And%20Orange)|
 |  8  |        Mini-Max Sum    | Problem Solving |![#008000](https://placehold.co/10x10/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Mini-Max%20Sum)|
 |  9  |       Digit Frequency   | C |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Digit%20Frequency)|
+|  10  |       Printing Tokens   | C |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Digit%20Frequency)|
+
 
