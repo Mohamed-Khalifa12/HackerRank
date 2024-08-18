@@ -22,7 +22,7 @@ you can find my profile on hackerRanck from [here](https://www.hackerrank.com/pr
 
 **Note:** 
 
-![#008000](https://placehold.co/10x10/008000/008000.png) ==> Easy Problem<br/>
+![#008000](https://placehold.co/15x15/008000/008000.png) ==> Easy Problem<br/>
 ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) ==> Medium Problem<br/>
 ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ==> Hard Problem
 
@@ -30,13 +30,14 @@ you can find my profile on hackerRanck from [here](https://www.hackerrank.com/pr
 |-----|:----------------------------------------:|:----------------------------------------:|:---:|:-------------:|
 |  1  |        Time Conversion                 | Problem Solving |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Time%20Conversion)     |
 |  2  |        Array Reversal     | C |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Array%20Reversal)|
-|  3  |        Grading Students     | Problem Solving |![#008000](https://placehold.co/10x10/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Grading%20Students)|
-|  4  |        Birthday Cake Candles    | Problem Solving |![#008000](https://placehold.co/10x10/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Birthday%20Cake%20Candles)|
+|  3  |        Grading Students     | Problem Solving |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Grading%20Students)|
+|  4  |        Birthday Cake Candles    | Problem Solving |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Birthday%20Cake%20Candles)|
 |  5  |        1D Arrays in C    | C |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/1D%20Arrays%20in%20C)|
-|  6  |        Calculate the Nth term    | C |![#008000](https://placehold.co/10x10/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Calculate%20the%20Nth%20term)|
-|  7  |        Apple And Orange    | Problem Solving |![#008000](https://placehold.co/10x10/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Apple%20And%20Orange)|
-|  8  |        Mini-Max Sum    | Problem Solving |![#008000](https://placehold.co/10x10/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Mini-Max%20Sum)|
+|  6  |        Calculate the Nth term    | C |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Calculate%20the%20Nth%20term)|
+|  7  |        Apple And Orange    | Problem Solving |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Apple%20And%20Orange)|
+|  8  |        Mini-Max Sum    | Problem Solving |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Mini-Max%20Sum)|
 |  9  |       Digit Frequency   | C |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Digit%20Frequency)|
 |  10  |       Printing Tokens   | C |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Printing%20Tokens)|
+|  11  |       Number Line Jumbs   | Problem Solving |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Printing%20Tokens)|
 
 
