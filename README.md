@@ -40,7 +40,7 @@ you can find my profile on hackerRanck from [here](https://www.hackerrank.com/pr
 |  10  |       Printing Tokens   | C |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Printing%20Tokens)|
 |  11  |       Number Line Jumbs   | Problem Solving |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Number%20Line%20Jumbs)|
 |  12  |      Between Two Setss   | Problem Solving |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Between%20Two%20Sets)|
-|  13  |      Breaking the Records   | Problem Solving |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Between%20Two%20Sets)|
+|  13  |      Breaking the Records   | Problem Solving |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Breaking%20the%20Records)|
 
 
 
