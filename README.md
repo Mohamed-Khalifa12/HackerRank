@@ -42,7 +42,7 @@ you can find my profile on hackerRanck from [here](https://www.hackerrank.com/pr
 |  12  |      Between Two Setss   | Problem Solving |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Between%20Two%20Sets)|
 |  13  |      Breaking the Records   | Problem Solving |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Breaking%20the%20Records)|
 |  14  |      Subarray Division   | Problem Solving |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Subarray%20Division)|
-|  15  |      Divisable Sum Pairs   | Problem Solving |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Subarray%20Division)|
+|  15  |      Divisable Sum Pairs   | Problem Solving |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Divisable%20Sum%20Pairs)|
 
 
 
