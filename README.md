@@ -45,7 +45,7 @@ you can find my profile on hackerRanck from [here](https://www.hackerrank.com/pr
 |  15  |      Divisable Sum Pairs   | Problem Solving |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Divisable%20Sum%20Pairs)|
 |  16  |      Migratory Birds   | Problem Solving |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Migratory%20Birds)|
 |  17  |      Dynamic Array in C   | C |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Dynamic%20Array%20in%20C)|
-|  18  |      Bill Division   | Problem Solving |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Dynamic%20Array%20in%20C)|
+|  18  |      Bill Division   | Problem Solving |![#008000](https://placehold.co/15x15/008000/008000.png)   | [Solution](https://github.com/Mohamed-Khalifa12/HackerRank/tree/main/Bill%20Division)|
 
 
 
